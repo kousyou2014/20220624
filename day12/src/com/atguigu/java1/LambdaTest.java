@@ -16,6 +16,6 @@ public class LambdaTest {
         Runnable r2 = () -> System.out.println("abc");
         r2.run();
 //111
-
+//tst st
     }
 }
