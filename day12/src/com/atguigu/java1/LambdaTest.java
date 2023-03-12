@@ -17,5 +17,6 @@ public class LambdaTest {
         r2.run();
 //111
 //tst st111
+//tst st222
     }
 }
